@@ -1,6 +1,5 @@
 import java.lang.Thread;
 
-
 public class Main {
     public static void main(String[] args) {
         Thread avion1 = new Thread(new Avion1());
